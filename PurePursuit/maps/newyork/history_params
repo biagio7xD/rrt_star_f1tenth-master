@@ -1,0 +1,104 @@
+opt_fast_safe:
+ 
+   MAX_A  = 0.3  # max throttle acc
+    MAX_B  = 0.05  # max brake acc #higher this, higher will be the brake sector in the apex
+    MAX_AL = 0.10
+    MAX_SPEED = 5
+    APEX_BREAKING_SHIFT = 10
+
+MAX_MARGIN = 30.0  # max track width
+MIN_MARGIN = 2     # min track width
+WALL_MARGIN = 2   # min dist from wall
+
+TURBO_BOOST_TRIGGER = 3.5  # speed at witch activate boost
+TURBO_BOOST_SPEED = 4  # speed boost target
+
+look_ahead -> 1 e 0.4
+
+opt_max_throttle:
+
+    MAX_A  = 0.3  # max throttle acc
+    MAX_B  = 0.03  # max brake acc #higher this, higher will be the brake sector in the apex
+    MAX_AL = 0.15
+    MAX_SPEED = 10
+    APEX_BREAKING_SHIFT = 10
+
+MAX_MARGIN = 30.0  # max track width
+MIN_MARGIN = 2     # min track width
+WALL_MARGIN = 15   # min dist from wall
+
+TURBO_BOOST_TRIGGER = 3  # speed at witch activate boost
+TURBO_BOOST_SPEED = 5  # speed boost target
+
+opt_frenatardi:
+
+    MAX_A  = 0.3  # max throttle acc
+    MAX_B  = 0.07  # max brake acc #higher this, higher will be the brake sector in the apex
+    MAX_AL = 0.15
+    MAX_SPEED = 10
+    APEX_BREAKING_SHIFT = 10
+
+MAX_MARGIN = 30.0  # max track width
+MIN_MARGIN = 2     # min track width
+WALL_MARGIN = 15   # min dist from wall
+
+TURBO_BOOST_TRIGGER = 3  # speed at witch activate boost
+TURBO_BOOST_SPEED = 5  # speed boost target
+
+        '''pp_look_ahead = 1.2
+        if(path_speed < 3):
+          pp_look_ahead = 0.9'''
+
+opt_drift_pazzo:
+
+MAX_MARGIN = 30.0  # max track width
+MIN_MARGIN = 2     # min track width
+WALL_MARGIN = 15   # min dist from wall
+
+TURBO_BOOST_TRIGGER = 3  # speed at witch activate boost
+TURBO_BOOST_SPEED = 5  # speed boost target
+
+CURVATURE_TRIGGER_FOR_LOOKAHEAD = 0.02
+
+MIN_CURVATURE_FOR_DRIFTING = 0.04
+DRIFT_THROTTLE = 5
+DRIFT_ACC_TIME = 40
+DRIFT_DEC_TIME = 10
+DRIFT_DEC_SPEED = 1
+
+    MAX_A  = 0.3  # max throttle acc
+    MAX_B  = 0.07  # max brake acc #higher this, higher will be the brake sector in the apex
+    MAX_AL = 0.15
+    MAX_SPEED = 10
+    APEX_BREAKING_SHIFT = 10
+
+opt_forsedrifta:
+    MAX_A  = 0.3  # max throttle acc
+    MAX_B  = 0.07  # max brake acc #higher this, higher will be the brake sector in the apex
+    MAX_AL = 0.20
+    MAX_SPEED = 10
+    APEX_BREAKING_SHIFT = 0
+
+MAX_MARGIN = 30.0  # max track width
+MIN_MARGIN = 2     # min track width
+WALL_MARGIN = 15   # min dist from wall
+
+TURBO_BOOST_TRIGGER = 7  # speed at witch activate boost
+TURBO_BOOST_SPEED = 5  # speed boost target
+
+CURVATURE_TRIGGER_FOR_LOOKAHEAD = 0.02
+
+MIN_CURVATURE_FOR_DRIFTING = 0.035
+DRIFT_THROTTLE = 5
+DRIFT_ACC_TIME = 30
+DRIFT_DEC_TIME = 10
+DRIFT_DEC_SPEED = 1
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3000 @@
+- Name: Flag 0
+    X: -39.2533
+    Y: 32.2932
+    Z: 3
+    DRIFT: 0
+- Name: Flag 1
+    X: -39.3102
+    Y: 32.286
+    Z: 3
+    DRIFT: 0
+- Name: Flag 2
+    X: -39.3675
+    Y: 32.2778
+    Z: 3
+    DRIFT: 0
+- Name: Flag 3
+    X: -39.4251
+    Y: 32.2687
+    Z: 3
+    DRIFT: 0
+- Name: Flag 4
+    X: -39.4829
+    Y: 32.2587
+    Z: 3
+    DRIFT: 0
+- Name: Flag 5
+    X: -39.5409
+    Y: 32.2476
+    Z: 3
+    DRIFT: 0
+- Name: Flag 6
+    X: -39.5992
+    Y: 32.2356
+    Z: 2.99233
+    DRIFT: 0
+- Name: Flag 7
+    X: -39.6576
+    Y: 32.2225
+    Z: 2.97397
+    DRIFT: 0
+- Name: Flag 8
+    X: -39.7163
+    Y: 32.2084
+    Z: 2.95359
+    DRIFT: 0
+- Name: Flag 9
+    X: -39.775
+    Y: 32.1933
+    Z: 2.933
+    DRIFT: 0
+- Name: Flag 10
+    X: -39.8332
+    Y: 32.1772
+    Z: 2.91236
+    DRIFT: 0
+- Name: Flag 11
+    X: -39.8908
+    Y: 32.1602
+    Z: 2.89166
+    DRIFT: 0
+- Name: Flag 12
+    X: -39.9479
+    Y: 32.1423
+    Z: 2.8709
+    DRIFT: 0
+- Name: Flag 13
+    X: -40.0044
+    Y: 32.1235
+    Z: 2.85008
+    DRIFT: 0
+- Name: Flag 14
+    X: -40.0602
+    Y: 32.1038
+    Z: 2.82923
+    DRIFT: 0
+- Name: Flag 15
+    X: -40.1152
+    Y: 32.0834
+    Z: 2.80842
+    DRIFT: 0
+- Name: Flag 16
+    X: -40.169
+    Y: 32.0622
+    Z: 2.78777
+    DRIFT: 0
+- Name: Flag 17
+    X: -40.2214
+    Y: 32.0406
+    Z: 2.76733
+    DRIFT: 0
+- Name: Flag 18
+    X: -40.2726
+    Y: 32.0184
+    Z: 2.74712
+    DRIFT: 0
+- Name: Flag 19
+    X: -40.3223
+    Y: 31.9957
+    Z: 2.72713
+    DRIFT: 0
+- Name: Flag 20
+    X: -40.3709
+    Y: 31.9726
+    Z: 2.70736
+    DRIFT: 0
+- Name: Flag 21
+    X: -40.4183
+    Y: 31.949
+    Z: 2.68772
+    DRIFT: 0
+- Name: Flag 22
+    X: -40.4649
+    Y: 31.9248
+    Z: 2.66811
+    DRIFT: 0
+- Name: Flag 23
+    X: -40.5113
+    Y: 31.8996
+    Z: 2.64825
+    DRIFT: 0
+- Name: Flag 24
+    X: -40.5593
+    Y: 31.8724
+    Z: 2.62731
+    DRIFT: 0
+- Name: Flag 25
+    X: -40.609
+    Y: 31.8429
+    Z: 2.60521
+    DRIFT: 0
+- Name: Flag 26
+    X: -40.6599
+    Y: 31.8112
+    Z: 2.5821
+    DRIFT: 0
+- Name: Flag 27
+    X: -40.7114
+    Y: 31.7777
+    Z: 2.55822
+    DRIFT: 0
+- Name: Flag 28
+    X: -40.7625
+    Y: 31.7426
+    Z: 2.53387
+    DRIFT: 0
+- Name: Flag 29
+    X: -40.8127
+    Y: 31.7065
+    Z: 2.50937
+    DRIFT: 0
+- Name: Flag 30
+    X: -40.8612
+    Y: 31.6699
+    Z: 2.485
+    DRIFT: 0
+- Name: Flag 31
+    X: -40.9078
+    Y: 31.6329
+    Z: 2.46097
+    DRIFT: 0
+- Name: Flag 32
+    X: -40.9526
+    Y: 31.5956
+    Z: 2.43715
+    DRIFT: 0
+- Name: Flag 33
+    X: -40.996
+    Y: 31.5577
+    Z: 2.41339
+    DRIFT: 0
+- Name: Flag 34
+    X: -41.0381
+    Y: 31.5193
+    Z: 2.38966
+    DRIFT: 0
+- Name: Flag 35
+    X: -41.0788
+    Y: 31.4801
+    Z: 2.36589
+    DRIFT: 0
+- Name: Flag 36
+    X: -41.1183
+    Y: 31.4404
+    Z: 2.34209
+    DRIFT: 0
+- Name: Flag 37
+    X: -41.1565
+    Y: 31.4
+    Z: 2.31826
+    DRIFT: 0
+- Name: Flag 38
+    X: -41.1933
+    Y: 31.3591
+    Z: 2.2944
+    DRIFT: 0
+- Name: Flag 39
+    X: -41.2287
+    Y: 31.3178
+    Z: 2.27054
+    DRIFT: 0
+- Name: Flag 40
+    X: -41.2627
+    Y: 31.276
+    Z: 2.2467
+    DRIFT: 0
+- Name: Flag 41
+    X: -41.2952
+    Y: 31.2339
+    Z: 2.2229
+    DRIFT: 0
+- Name: Flag 42
+    X: -41.3261
+    Y: 31.1916
+    Z: 2.19919
+    DRIFT: 0
+- Name: Flag 43
+    X: -41.3555
+    Y: 31.1491
+    Z: 2.17556
+    DRIFT: 0
+- Name: Flag 44
+    X: -41.3834
+    Y: 31.1065
+    Z: 2.15204
+    DRIFT: 0
+- Name: Flag 45
+    X: -41.4098
+    Y: 31.0638
+    Z: 2.1286
+    DRIFT: 0
+- Name: Flag 46
+    X: -41.4347
+    Y: 31.021
+    Z: 2.10523
+    DRIFT: 0
+- Name: Flag 47
+    X: -41.4582
+    Y: 30.9781
+    Z: 2.08184
+    DRIFT: 0
+- Name: Flag 48
+    X: -41.4803
+    Y: 30.9348
+    Z: 2.05835
+    DRIFT: 0
+- Name: Flag 49
+    X: -41.5013
+    Y: 30.891
+    Z: 2.04635
+    DRIFT: 0
+- Name: Flag 50
+    X: -41.5213
+    Y: 30.8458
+    Z: 2.05204
+    DRIFT: 0
+- Name: Flag 51
+    X: -41.5409
+    Y: 30.7981
+    Z: 2.0759
+    DRIFT: 0
+- Name: Flag 52
+    X: -41.5599
+    Y: 30.7475
+    Z: 2.11832
+    DRIFT: 0
+- Name: Flag 53
+    X: -41.5782
+    Y: 30.6942
+    Z: 2.17765
+    DRIFT: 0
+- Name: Flag 54
+    X: -41.5955
+    Y: 30.6385
+    Z: 2.25016
+    DRIFT: 0
+- Name: Flag 55
+    X: -41.6116
+    Y: 30.581
+    Z: 2.33091
+    DRIFT: 0
+- Name: Flag 56
+    X: -41.6264
+    Y: 30.5222
+    Z: 2.41477
+    DRIFT: 0
+- Name: Flag 57
+    X: -41.6398
+    Y: 30.4627
+    Z: 2.49728
+    DRIFT: 0
+- Name: Flag 58
+    X: -41.6517
+    Y: 30.4033
+    Z: 2.57508
+    DRIFT: 0
+- Name: Flag 59
+    X: -41.6622
+    Y: 30.3445
+    Z: 2.64596
+    DRIFT: 0
+- Name: Flag 60
+    X: -41.6713
+    Y: 30.2867
+    Z: 2.70877
+    DRIFT: 0
+- Name: Flag 61
+    X: -41.6791
+    Y: 30.2301
+    Z: 2.76382
+    DRIFT: 0
+- Name: Flag 62
+    X: -41.6859
+    Y: 30.1737
+    Z: 2.81286
+    DRIFT: 0
+- Name: Flag 63
+    X: -41.6916
+    Y: 30.1172
+    Z: 2.85642
+    DRIFT: 0
+- Name: Flag 64
+    X: -41.6965
+    Y: 30.0604
+    Z: 2.89466
+    DRIFT: 0
+- Name: Flag 65
+    X: -41.7004
+    Y: 30.0032
+    Z: 2.92757
+    DRIFT: 0
+- Name: Flag 66
+    X: -41.7035
+    Y: 29.9454
+    Z: 2.95496
+    DRIFT: 0
+- Name: Flag 67
+    X: -41.7056
+    Y: 29.8869
+    Z: 2.97646
+    DRIFT: 0
+- Name: Flag 68
+    X: -41.7069
+    Y: 29.8277
+    Z: 2.99154
+    DRIFT: 0
+- Name: Flag 69
+    X: -41.7072
+    Y: 29.7686
+    Z: 2.99945
+    DRIFT: 0
+- Name: Flag 70
+    X: -41.7065
+    Y: 29.7099
+    Z: 3
+    DRIFT: 0
+- Name: Flag 71
+    X: -41.705
+    Y: 29.6517
+    Z: 3
+    DRIFT: 0
+- Name: Flag 72
+    X: -41.7026
+    Y: 29.594
+    Z: 3
+    DRIFT: 0
+- Name: Flag 73
+    X: -41.6993
+    Y: 29.5369
+    Z: 3
+    DRIFT: 0
+- Name: Flag 74
+    X: -41.6952
+    Y: 29.4805
+    Z: 3
+    DRIFT: 0
+- Name: Flag 75
+    X: -41.6904
+    Y: 29.4247
+    Z: 3
+    DRIFT: 0
+- Name: Flag 76
+    X: -41.6847
+    Y: 29.3696
+    Z: 3
+    DRIFT: 0
+- Name: Flag 77
+    X: -41.6782
+    Y: 29.3145
+    Z: 3
+    DRIFT: 0
+- Name: Flag 78
+    X: -41.6708
+    Y: 29.2588
+    Z: 3
+    DRIFT: 0
+- Name: Flag 79
+    X: -41.6625
+    Y: 29.2025
+    Z: 3
+    DRIFT: 0
+- Name: Flag 80
+    X: -41.6532
+    Y: 29.1457
+    Z: 3
+    DRIFT: 0
+- Name: Flag 81
+    X: -41.6429
+    Y: 29.0885
+    Z: 3
+    DRIFT: 0
+- Name: Flag 82
+    X: -41.6317
+    Y: 29.0308
+    Z: 3
+    DRIFT: 0
+- Name: Flag 83
+    X: -41.6194
+    Y: 28.973
+    Z: 3
+    DRIFT: 0
+- Name: Flag 84
+    X: -41.6067
+    Y: 28.9155
+    Z: 3
+    DRIFT: 0
+- Name: Flag 85
+    X: -41.5942
+    Y: 28.8584
+    Z: 3
+    DRIFT: 0
+- Name: Flag 86
+    X: -41.5817
+    Y: 28.8018
+    Z: 3
+    DRIFT: 0
+- Name: Flag 87
+    X: -41.5693
+    Y: 28.7455
+    Z: 3
+    DRIFT: 0
+- Name: Flag 88
+    X: -41.557
+    Y: 28.6895
+    Z: 3
+    DRIFT: 0
+- Name: Flag 89
+    X: -41.5447
+    Y: 28.6337
+    Z: 3
+    DRIFT: 0
+- Name: Flag 90
+    X: -41.5325
+    Y: 28.5783
+    Z: 3
+    DRIFT: 0
+- Name: Flag 91
+    X: -41.5203
+    Y: 28.523
+    Z: 3
+    DRIFT: 0
+- Name: Flag 92
+    X: -41.5081
+    Y: 28.4677
+    Z: 3
+    DRIFT: 0
+- Name: Flag 93
+    X: -41.4959
+    Y: 28.4123
+    Z: 3
+    DRIFT: 0
+- Name: Flag 94
+    X: -41.4837
+    Y: 28.3569
+    Z: 3
+    DRIFT: 0
+- Name: Flag 95
+    X: -41.4715
+    Y: 28.3015
+    Z: 3
+    DRIFT: 0
+- Name: Flag 96
+    X: -41.4593
+    Y: 28.246
+    Z: 3
+    DRIFT: 0
+- Name: Flag 97
+    X: -41.447
+    Y: 28.1905
+    Z: 3
+    DRIFT: 0
+- Name: Flag 98
+    X: -41.4348
+    Y: 28.1349
+    Z: 3
+    DRIFT: 0
+- Name: Flag 99
+    X: -41.4225
+    Y: 28.0792
+    Z: 3
+    DRIFT: 0
+- Name: Flag 100
+    X: -41.4102
+    Y: 28.0234
+    Z: 3
+    DRIFT: 0
+- Name: Flag 101
+    X: -41.3979
+    Y: 27.9674
+    Z: 3
+    DRIFT: 0
+- Name: Flag 102
+    X: -41.3856
+    Y: 27.9114
+    Z: 3
+    DRIFT: 0
+- Name: Flag 103
+    X: -41.3732
+    Y: 27.8553
+    Z: 3
+    DRIFT: 0
+- Name: Flag 104
+    X: -41.3609
+    Y: 27.7993
+    Z: 3
+    DRIFT: 0
+- Name: Flag 105
+    X: -41.3485
+    Y: 27.7433
+    Z: 3
+    DRIFT: 0
+- Name: Flag 106
+    X: -41.3362
+    Y: 27.6873
+    Z: 3
+    DRIFT: 0
+- Name: Flag 107
+    X: -41.3239
+    Y: 27.6315
+    Z: 3
+    DRIFT: 0
+- Name: Flag 108
+    X: -41.3116
+    Y: 27.5756
+    Z: 3
+    DRIFT: 0
+- Name: Flag 109
+    X: -41.2993
+    Y: 27.5199
+    Z: 3
+    DRIFT: 0
+- Name: Flag 110
+    X: -41.287
+    Y: 27.4641
+    Z: 3
+    DRIFT: 0
+- Name: Flag 111
+    X: -41.2747
+    Y: 27.4084
+    Z: 3
+    DRIFT: 0
+- Name: Flag 112
+    X: -41.2625
+    Y: 27.3526
+    Z: 3
+    DRIFT: 0
+- Name: Flag 113
+    X: -41.2502
+    Y: 27.2968
+    Z: 3
+    DRIFT: 0
+- Name: Flag 114
+    X: -41.2379
+    Y: 27.241
+    Z: 3
+    DRIFT: 0
+- Name: Flag 115
+    X: -41.2256
+    Y: 27.1852
+    Z: 3
+    DRIFT: 0
+- Name: Flag 116
+    X: -41.2133
+    Y: 27.1293
+    Z: 3
+    DRIFT: 0
+- Name: Flag 117
+    X: -41.201
+    Y: 27.0734
+    Z: 3
+    DRIFT: 0
+- Name: Flag 118
+    X: -41.1886
+    Y: 27.0174
+    Z: 3
+    DRIFT: 0
+- Name: Flag 119
+    X: -41.1763
+    Y: 26.9614
+    Z: 3
+    DRIFT: 0
+- Name: Flag 120
+    X: -41.1639
+    Y: 26.9054
+    Z: 3
+    DRIFT: 0
+- Name: Flag 121
+    X: -41.1516
+    Y: 26.8492
+    Z: 3
+    DRIFT: 0
+- Name: Flag 122
+    X: -41.1392
+    Y: 26.7931
+    Z: 3
+    DRIFT: 0
+- Name: Flag 123
+    X: -41.1268
+    Y: 26.7368
+    Z: 3
+    DRIFT: 0
+- Name: Flag 124
+    X: -41.1144
+    Y: 26.6806
+    Z: 3
+    DRIFT: 0
+- Name: Flag 125
+    X: -41.102
+    Y: 26.6243
+    Z: 3
+    DRIFT: 0
+- Name: Flag 126
+    X: -41.0896
+    Y: 26.568
+    Z: 3
+    DRIFT: 0
+- Name: Flag 127
+    X: -41.0772
+    Y: 26.5118
+    Z: 3
+    DRIFT: 0
+- Name: Flag 128
+    X: -41.0649
+    Y: 26.4557
+    Z: 3
+    DRIFT: 0
+- Name: Flag 129
+    X: -41.0525
+    Y: 26.3997
+    Z: 3
+    DRIFT: 0
+- Name: Flag 130
+    X: -41.0402
+    Y: 26.3439
+    Z: 3
+    DRIFT: 0
+- Name: Flag 131
+    X: -41.028
+    Y: 26.2883
+    Z: 3
+    DRIFT: 0
+- Name: Flag 132
+    X: -41.0158
+    Y: 26.233
+    Z: 3
+    DRIFT: 0
+- Name: Flag 133
+    X: -41.0037
+    Y: 26.1779
+    Z: 3
+    DRIFT: 0
+- Name: Flag 134
+    X: -40.9916
+    Y: 26.123
+    Z: 3
+    DRIFT: 0
+- Name: Flag 135
+    X: -40.9796
+    Y: 26.0685
+    Z: 3
+    DRIFT: 0
+- Name: Flag 136
+    X: -40.9676
+    Y: 26.0142
+    Z: 3
+    DRIFT: 0
+- Name: Flag 137
+    X: -40.9557
+    Y: 25.96
+    Z: 3
+    DRIFT: 0
+- Name: Flag 138
+    X: -40.9438
+    Y: 25.906
+    Z: 3
+    DRIFT: 0
+- Name: Flag 139
+    X: -40.9319
+    Y: 25.8521
+    Z: 3
+    DRIFT: 0
+- Name: Flag 140
+    X: -40.9201
+    Y: 25.7984
+    Z: 3
+    DRIFT: 0
+- Name: Flag 141
+    X: -40.9083
+    Y: 25.7448
+    Z: 3
+    DRIFT: 0
+- Name: Flag 142
+    X: -40.8965
+    Y: 25.6913
+    Z: 3
+    DRIFT: 0
+- Name: Flag 143
+    X: -40.8848
+    Y: 25.6379
+    Z: 3
+    DRIFT: 0
+- Name: Flag 144
+    X: -40.8724
+    Y: 25.5847
+    Z: 3
+    DRIFT: 0
+- Name: Flag 145
+    X: -40.8591
+    Y: 25.5311
+    Z: 3
+    DRIFT: 0
+- Name: Flag 146
+    X: -40.8448
+    Y: 25.4769
+    Z: 3
+    DRIFT: 0
+- Name: Flag 147
+    X: -40.8294
+    Y: 25.4221
+    Z: 3
+    DRIFT: 0
+- Name: Flag 148
+    X: -40.8129
+    Y: 25.3668
+    Z: 3
+    DRIFT: 0
+- Name: Flag 149
+    X: -40.7954
+    Y: 25.3112
+    Z: 3
+    DRIFT: 0
+- Name: Flag 150
+    X: -40.7769
+    Y: 25.2553
+    Z: 3
+    DRIFT: 0
+- Name: Flag 151
+    X: -40.7574
+    Y: 25.1994
+    Z: 3
+    DRIFT: 0
+- Name: Flag 152
+    X: -40.7369
+    Y: 25.1435
+    Z: 2.99246
+    DRIFT: 0
+- Name: Flag 153
+    X: -40.7155
+    Y: 25.088
+    Z: 2.97708
+    DRIFT: 0
+- Name: Flag 154
+    X: -40.6934
+    Y: 25.0333
+    Z: 2.95719
+    DRIFT: 0
+- Name: Flag 155
+    X: -40.6706
+    Y: 24.9793
+    Z: 2.93731
+    DRIFT: 0
+- Name: Flag 156
+    X: -40.647
+    Y: 24.9259
+    Z: 2.91739
+    DRIFT: 0
+- Name: Flag 157
+    X: -40.6227
+    Y: 24.8732
+    Z: 2.89741
+    DRIFT: 0
+- Name: Flag 158
+    X: -40.5975
+    Y: 24.821
+    Z: 2.87734
+    DRIFT: 0
+- Name: Flag 159
+    X: -40.5715
+    Y: 24.7693
+    Z: 2.85715
+    DRIFT: 0
+- Name: Flag 160
+    X: -40.5446
+    Y: 24.718
+    Z: 2.83681
+    DRIFT: 0
+- Name: Flag 161
+    X: -40.5168
+    Y: 24.6671
+    Z: 2.81628
+    DRIFT: 0
+- Name: Flag 162
+    X: -40.488
+    Y: 24.6165
+    Z: 2.79552
+    DRIFT: 0
+- Name: Flag 163
+    X: -40.4581
+    Y: 24.5662
+    Z: 2.77453
+    DRIFT: 0
+- Name: Flag 164
+    X: -40.4274
+    Y: 24.5166
+    Z: 2.75341
+    DRIFT: 0
+- Name: Flag 165
+    X: -40.396
+    Y: 24.4678
+    Z: 2.73226
+    DRIFT: 0
+- Name: Flag 166
+    X: -40.364
+    Y: 24.4202
+    Z: 2.71119
+    DRIFT: 0
+- Name: Flag 167
+    X: -40.3317
+    Y: 24.3739
+    Z: 2.69028
+    DRIFT: 0
+- Name: Flag 168
+    X: -40.2991
+    Y: 24.3289
+    Z: 2.66955
+    DRIFT: 0
+- Name: Flag 169
+    X: -40.2659
+    Y: 24.285
+    Z: 2.64886
+    DRIFT: 0
+- Name: Flag 170
+    X: -40.2322
+    Y: 24.242
+    Z: 2.62815
+    DRIFT: 0
+- Name: Flag 171
+    X: -40.1979
+    Y: 24.2
+    Z: 2.60741
+    DRIFT: 0
+- Name: Flag 172
+    X: -40.1629
+    Y: 24.1587
+    Z: 2.5866
+    DRIFT: 0
+- Name: Flag 173
+    X: -40.1273
+    Y: 24.1184
+    Z: 2.56571
+    DRIFT: 0
+- Name: Flag 174
+    X: -40.091
+    Y: 24.0789
+    Z: 2.54472
+    DRIFT: 0
+- Name: Flag 175
+    X: -40.0541
+    Y: 24.0402
+    Z: 2.52362
+    DRIFT: 0
+- Name: Flag 176
+    X: -40.0165
+    Y: 24.0023
+    Z: 2.50238
+    DRIFT: 0
+- Name: Flag 177
+    X: -39.9782
+    Y: 23.9653
+    Z: 2.481
+    DRIFT: 0
+- Name: Flag 178
+    X: -39.9392
+    Y: 23.9292
+    Z: 2.45948
+    DRIFT: 0
+- Name: Flag 179
+    X: -39.8995
+    Y: 23.8939
+    Z: 2.4378
+    DRIFT: 0
+- Name: Flag 180
+    X: -39.8591
+    Y: 23.8596
+    Z: 2.41595
+    DRIFT: 0
+- Name: Flag 181
+    X: -39.818
+    Y: 23.8262
+    Z: 2.39394
+    DRIFT: 0
+- Name: Flag 182
+    X: -39.7763
+    Y: 23.7938
+    Z: 2.37176
+    DRIFT: 0
+- Name: Flag 183
+    X: -39.7339
+    Y: 23.7624
+    Z: 2.34943
+    DRIFT: 0
+- Name: Flag 184
+    X: -39.691
+    Y: 23.732
+    Z: 2.32695
+    DRIFT: 0
+- Name: Flag 185
+    X: -39.6475
+    Y: 23.7028
+    Z: 2.30572
+    DRIFT: 0
+- Name: Flag 186
+    X: -39.6035
+    Y: 23.6746
+    Z: 2.29598
+    DRIFT: 0
+- Name: Flag 187
+    X: -39.559
+    Y: 23.6476
+    Z: 2.29714
+    DRIFT: 0
+- Name: Flag 188
+    X: -39.5139
+    Y: 23.6218
+    Z: 2.30818
+    DRIFT: 0
+- Name: Flag 189
+    X: -39.4683
+    Y: 23.597
+    Z: 2.32778
+    DRIFT: 0
+- Name: Flag 190
+    X: -39.4221
+    Y: 23.5733
+    Z: 2.35451
+    DRIFT: 0
+- Name: Flag 191
+    X: -39.3755
+    Y: 23.5506
+    Z: 2.38696
+    DRIFT: 0
+- Name: Flag 192
+    X: -39.3282
+    Y: 23.5289
+    Z: 2.42382
+    DRIFT: 0
+- Name: Flag 193
+    X: -39.2801
+    Y: 23.5081
+    Z: 2.46419
+    DRIFT: 0
+- Name: Flag 194
+    X: -39.2309
+    Y: 23.4879
+    Z: 2.50756
+    DRIFT: 0
+- Name: Flag 195
+    X: -39.1804
+    Y: 23.4685
+    Z: 2.55305
+    DRIFT: 0
+- Name: Flag 196
+    X: -39.1288
+    Y: 23.4498
+    Z: 2.59978
+    DRIFT: 0
+- Name: Flag 197
+    X: -39.0761
+    Y: 23.4319
+    Z: 2.64686
+    DRIFT: 0
+- Name: Flag 198
+    X: -39.0223
+    Y: 23.4147
+    Z: 2.69344
+    DRIFT: 0
+- Name: Flag 199
+    X: -38.9676
+    Y: 23.3984
+    Z: 2.7387
+    DRIFT: 0
+- Name: Flag 200
+    X: -38.912
+    Y: 23.3829
+    Z: 2.78191
+    DRIFT: 0
+- Name: Flag 201
+    X: -38.8557
+    Y: 23.3683
+    Z: 2.82239
+    DRIFT: 0
+- Name: Flag 202
+    X: -38.7989
+    Y: 23.3547
+    Z: 2.85956
+    DRIFT: 0
+- Name: Flag 203
+    X: -38.7418
+    Y: 23.3419
+    Z: 2.89295
+    DRIFT: 0
+- Name: Flag 204
+    X: -38.6844
+    Y: 23.3302
+    Z: 2.92217
+    DRIFT: 0
+- Name: Flag 205
+    X: -38.6269
+    Y: 23.3194
+    Z: 2.94702
+    DRIFT: 0
+- Name: Flag 206
+    X: -38.5692
+    Y: 23.3095
+    Z: 2.96738
+    DRIFT: 0
+- Name: Flag 207
+    X: -38.5113
+    Y: 23.3005
+    Z: 2.98307
+    DRIFT: 0
+- Name: Flag 208
+    X: -38.4532
+    Y: 23.2925
+    Z: 2.99392
+    DRIFT: 0
+- Name: Flag 209
+    X: -38.3948
+    Y: 23.2853
+    Z: 2.99966
+    DRIFT: 0
+- Name: Flag 210
+    X: -38.3362
+    Y: 23.2791
+    Z: 3
+    DRIFT: 0
+- Name: Flag 211
+    X: -38.2775
+    Y: 23.2738
+    Z: 3
+    DRIFT: 0
+- Name: Flag 212
+    X: -38.2191
+    Y: 23.2694
+    Z: 3
+    DRIFT: 0
+- Name: Flag 213
+    X: -38.1612
+    Y: 23.2659
+    Z: 3
+    DRIFT: 0
+- Name: Flag 214
+    X: -38.1038
+    Y: 23.2634
+    Z: 3
+    DRIFT: 0
+- Name: Flag 215
+    X: -38.047
+    Y: 23.2618
+    Z: 3
+    DRIFT: 0
+- Name: Flag 216
+    X: -37.9911
+    Y: 23.261
+    Z: 3
+    DRIFT: 0
+- Name: Flag 217
+    X: -37.9355
+    Y: 23.2611
+    Z: 3
+    DRIFT: 0
+- Name: Flag 218
+    X: -37.8796
+    Y: 23.262
+    Z: 3
+    DRIFT: 0
+- Name: Flag 219
+    X: -37.823
+    Y: 23.2637
+    Z: 3
+    DRIFT: 0
+- Name: Flag 220
+    X: -37.7659
+    Y: 23.2664
+    Z: 3
+    DRIFT: 0
+- Name: Flag 221
+    X: -37.7081
+    Y: 23.2699
+    Z: 3
+    DRIFT: 0
+- Name: Flag 222
+    X: -37.6497
+    Y: 23.2744
+    Z: 3
+    DRIFT: 0
+- Name: Flag 223
+    X: -37.5908
+    Y: 23.2799
+    Z: 3
+    DRIFT: 0
+- Name: Flag 224
+    X: -37.5314
+    Y: 23.2864
+    Z: 3
+    DRIFT: 0
+- Name: Flag 225
+    X: -37.4724
+    Y: 23.2938
+    Z: 3
+    DRIFT: 0
+- Name: Flag 226
+    X: -37.414
+    Y: 23.302
+    Z: 3
+    DRIFT: 0
+- Name: Flag 227
+    X: -37.3562
+    Y: 23.3111
+    Z: 3
+    DRIFT: 0
+- Name: Flag 228
+    X: -37.299
+    Y: 23.321
+    Z: 3
+    DRIFT: 0
+- Name: Flag 229
+    X: -37.2423
+    Y: 23.3314
+    Z: 3
+    DRIFT: 0
+- Name: Flag 230
+    X: -37.1861
+    Y: 23.3416
+    Z: 3
+    DRIFT: 0
+- Name: Flag 231
+    X: -37.1303
+    Y: 23.3518
+    Z: 3
+    DRIFT: 0
+- Name: Flag 232
+    X: -37.0749
+    Y: 23.3617
+    Z: 3
+    DRIFT: 0
+- Name: Flag 233
+    X: -37.0199
+    Y: 23.3712
+    Z: 3
+    DRIFT: 0
+- Name: Flag 234
+    X: -36.9649
+    Y: 23.3802
+    Z: 3
+    DRIFT: 0
+- Name: Flag 235
+    X: -36.9095
+    Y: 23.3888
+    Z: 3
+    DRIFT: 0
+- Name: Flag 236
+    X: -36.8537
+    Y: 23.3972
+    Z: 3
+    DRIFT: 0
+- Name: Flag 237
+    X: -36.7975
+    Y: 23.4055
+    Z: 3
+    DRIFT: 0
+- Name: Flag 238
+    X: -36.7411
+    Y: 23.4139
+    Z: 3
+    DRIFT: 0
+- Name: Flag 239
+    X: -36.6844
+    Y: 23.4223
+    Z: 3
+    DRIFT: 0
+- Name: Flag 240
+    X: -36.6273
+    Y: 23.4309
+    Z: 3
+    DRIFT: 0
+- Name: Flag 241
+    X: -36.5701
+    Y: 23.4404
+    Z: 3
+    DRIFT: 0
+- Name: Flag 242
+    X: -36.5128
+    Y: 23.4509
+    Z: 3
+    DRIFT: 0
+- Name: Flag 243
+    X: -36.4554
+    Y: 23.4623
+    Z: 3
+    DRIFT: 0
+- Name: Flag 244
+    X: -36.3979
+    Y: 23.4746
+    Z: 3
+    DRIFT: 0
+- Name: Flag 245
+    X: -36.3403
+    Y: 23.4879
+    Z: 3
+    DRIFT: 0
+- Name: Flag 246
+    X: -36.2827
+    Y: 23.5022
+    Z: 3
+    DRIFT: 0
+- Name: Flag 247
+    X: -36.2256
+    Y: 23.5173
+    Z: 3
+    DRIFT: 0
+- Name: Flag 248
+    X: -36.1693
+    Y: 23.5332
+    Z: 3
+    DRIFT: 0
+- Name: Flag 249
+    X: -36.1137
+    Y: 23.5498
+    Z: 3
+    DRIFT: 0
+- Name: Flag 250
+    X: -36.0589
+    Y: 23.5671
+    Z: 3
+    DRIFT: 0
+- Name: Flag 251
+    X: -36.0048
+    Y: 23.585
+    Z: 3
+    DRIFT: 0
+- Name: Flag 252
+    X: -35.9514
+    Y: 23.6037
+    Z: 3
+    DRIFT: 0
+- Name: Flag 253
+    X: -35.8984
+    Y: 23.6231
+    Z: 3
+    DRIFT: 0
+- Name: Flag 254
+    X: -35.8452
+    Y: 23.6435
+    Z: 3
+    DRIFT: 0
+- Name: Flag 255
+    X: -35.7918
+    Y: 23.6649
+    Z: 3
+    DRIFT: 0
+- Name: Flag 256
+    X: -35.7381
+    Y: 23.6874
+    Z: 2.99792
+    DRIFT: 0
+- Name: Flag 257
+    X: -35.6845
+    Y: 23.7108
+    Z: 2.98896
+    DRIFT: 0
+- Name: Flag 258
+    X: -35.631
+    Y: 23.7353
+    Z: 2.9731
+    DRIFT: 0
+- Name: Flag 259
+    X: -35.5778
+    Y: 23.7606
+    Z: 2.9532
+    DRIFT: 0
+- Name: Flag 260
+    X: -35.5249
+    Y: 23.7868
+    Z: 2.93315
+    DRIFT: 0
+- Name: Flag 261
+    X: -35.4725
+    Y: 23.8139
+    Z: 2.91298
+    DRIFT: 0
+- Name: Flag 262
+    X: -35.4208
+    Y: 23.8417
+    Z: 2.89274
+    DRIFT: 0
+- Name: Flag 263
+    X: -35.3699
+    Y: 23.8702
+    Z: 2.87252
+    DRIFT: 0
+- Name: Flag 264
+    X: -35.3198
+    Y: 23.8993
+    Z: 2.85226
+    DRIFT: 0
+- Name: Flag 265
+    X: -35.2703
+    Y: 23.9293
+    Z: 2.83191
+    DRIFT: 0
+- Name: Flag 266
+    X: -35.2215
+    Y: 23.96
+    Z: 2.81145
+    DRIFT: 0
+- Name: Flag 267
+    X: -35.1731
+    Y: 23.9916
+    Z: 2.79082
+    DRIFT: 0
+- Name: Flag 268
+    X: -35.1252
+    Y: 24.0242
+    Z: 2.76998
+    DRIFT: 0
+- Name: Flag 269
+    X: -35.0778
+    Y: 24.0577
+    Z: 2.74894
+    DRIFT: 0
+- Name: Flag 270
+    X: -35.031
+    Y: 24.092
+    Z: 2.72775
+    DRIFT: 0
+- Name: Flag 271
+    X: -34.985
+    Y: 24.1272
+    Z: 2.70646
+    DRIFT: 0
+- Name: Flag 272
+    X: -34.94
+    Y: 24.1629
+    Z: 2.68512
+    DRIFT: 0
+- Name: Flag 273
+    X: -34.896
+    Y: 24.1992
+    Z: 2.66381
+    DRIFT: 0
+- Name: Flag 274
+    X: -34.8532
+    Y: 24.2359
+    Z: 2.64257
+    DRIFT: 0
+- Name: Flag 275
+    X: -34.8117
+    Y: 24.273
+    Z: 2.62143
+    DRIFT: 0
+- Name: Flag 276
+    X: -34.7715
+    Y: 24.3103
+    Z: 2.6004
+    DRIFT: 0
+- Name: Flag 277
+    X: -34.7323
+    Y: 24.3481
+    Z: 2.57938
+    DRIFT: 0
+- Name: Flag 278
+    X: -34.6942
+    Y: 24.3863
+    Z: 2.55836
+    DRIFT: 0
+- Name: Flag 279
+    X: -34.6571
+    Y: 24.4249
+    Z: 2.53736
+    DRIFT: 0
+- Name: Flag 280
+    X: -34.6212
+    Y: 24.4639
+    Z: 2.51638
+    DRIFT: 0
+- Name: Flag 281
+    X: -34.5864
+    Y: 24.5033
+    Z: 2.49543
+    DRIFT: 0
+- Name: Flag 282
+    X: -34.5527
+    Y: 24.5429
+    Z: 2.4745
+    DRIFT: 0
+- Name: Flag 283
+    X: -34.5202
+    Y: 24.5828
+    Z: 2.45358
+    DRIFT: 0
+- Name: Flag 284
+    X: -34.4887
+    Y: 24.6231
+    Z: 2.43267
+    DRIFT: 0
+- Name: Flag 285
+    X: -34.4583
+    Y: 24.6637
+    Z: 2.41173
+    DRIFT: 0
+- Name: Flag 286
+    X: -34.4289
+    Y: 24.7046
+    Z: 2.39074
+    DRIFT: 0
+- Name: Flag 287
+    X: -34.4004
+    Y: 24.7463
+    Z: 2.36951
+    DRIFT: 0
+- Name: Flag 288
+    X: -34.3725
+    Y: 24.7889
+    Z: 2.34792
+    DRIFT: 0
+- Name: Flag 289
+    X: -34.3453
+    Y: 24.8326
+    Z: 2.32593
+    DRIFT: 0
+- Name: Flag 290
+    X: -34.3189
+    Y: 24.8773
+    Z: 2.30349
+    DRIFT: 0
+- Name: Flag 291
+    X: -34.2933
+    Y: 24.9231
+    Z: 2.28059
+    DRIFT: 0
+- Name: Flag 292
+    X: -34.2685
+    Y: 24.97
+    Z: 2.25805
+    DRIFT: 0
+- Name: Flag 293
+    X: -34.2446
+    Y: 25.018
+    Z: 2.24352
+    DRIFT: 0
+- Name: Flag 294
+    X: -34.2218
+    Y: 25.0672
+    Z: 2.23748
+    DRIFT: 0
+- Name: Flag 295
+    X: -34.2
+    Y: 25.1173
+    Z: 2.24003
+    DRIFT: 0
+- Name: Flag 296
+    X: -34.1794
+    Y: 25.1685
+    Z: 2.2509
+    DRIFT: 0
+- Name: Flag 297
+    X: -34.16
+    Y: 25.2205
+    Z: 2.26943
+    DRIFT: 0
+- Name: Flag 298
+    X: -34.1419
+    Y: 25.2733
+    Z: 2.29466
+    DRIFT: 0
+- Name: Flag 299
+    X: -34.125
+    Y: 25.3268
+    Z: 2.32544
+    DRIFT: 0
+- Name: Flag 300
+    X: -34.1095
+    Y: 25.381
+    Z: 2.36052
+    DRIFT: 0
+- Name: Flag 301
+    X: -34.0952
+    Y: 25.4356
+    Z: 2.39872
+    DRIFT: 0
+- Name: Flag 302
+    X: -34.0821
+    Y: 25.4907
+    Z: 2.43906
+    DRIFT: 0
+- Name: Flag 303
+    X: -34.0703
+    Y: 25.5464
+    Z: 2.48064
+    DRIFT: 0
+- Name: Flag 304
+    X: -34.0597
+    Y: 25.6024
+    Z: 2.52268
+    DRIFT: 0
+- Name: Flag 305
+    X: -34.0502
+    Y: 25.6589
+    Z: 2.56449
+    DRIFT: 0
+- Name: Flag 306
+    X: -34.042
+    Y: 25.7157
+    Z: 2.60548
+    DRIFT: 0
+- Name: Flag 307
+    X: -34.0348
+    Y: 25.7728
+    Z: 2.64516
+    DRIFT: 0
+- Name: Flag 308
+    X: -34.0288
+    Y: 25.83
+    Z: 2.68313
+    DRIFT: 0
+- Name: Flag 309
+    X: -34.0239
+    Y: 25.8874
+    Z: 2.71907
+    DRIFT: 0
+- Name: Flag 310
+    X: -34.0201
+    Y: 25.9448
+    Z: 2.75274
+    DRIFT: 0
+- Name: Flag 311
+    X: -34.0173
+    Y: 26.0023
+    Z: 2.78398
+    DRIFT: 0
+- Name: Flag 312
+    X: -34.0155
+    Y: 26.0597
+    Z: 2.81263
+    DRIFT: 0
+- Name: Flag 313
+    X: -34.0147
+    Y: 26.1171
+    Z: 2.83861
+    DRIFT: 0
+- Name: Flag 314
+    X: -34.015
+    Y: 26.1743
+    Z: 2.86185
+    DRIFT: 0
+- Name: Flag 315
+    X: -34.0161
+    Y: 26.2315
+    Z: 2.88228
+    DRIFT: 0
+- Name: Flag 316
+    X: -34.0182
+    Y: 26.2885
+    Z: 2.89988
+    DRIFT: 0
+- Name: Flag 317
+    X: -34.0213
+    Y: 26.3453
+    Z: 2.91463
+    DRIFT: 0
+- Name: Flag 318
+    X: -34.0252
+    Y: 26.4019
+    Z: 2.9265
+    DRIFT: 0
+- Name: Flag 319
+    X: -34.03
+    Y: 26.4583
+    Z: 2.93549
+    DRIFT: 0
+- Name: Flag 320
+    X: -34.0357
+    Y: 26.5145
+    Z: 2.94157
+    DRIFT: 0
+- Name: Flag 321
+    X: -34.0423
+    Y: 26.5706
+    Z: 2.94471
+    DRIFT: 0
+- Name: Flag 322
+    X: -34.0497
+    Y: 26.6267
+    Z: 2.94485
+    DRIFT: 0
+- Name: Flag 323
+    X: -34.0581
+    Y: 26.6828
+    Z: 2.94188
+    DRIFT: 0
+- Name: Flag 324
+    X: -34.0674
+    Y: 26.739
+    Z: 2.93564
+    DRIFT: 0
+- Name: Flag 325
+    X: -34.0776
+    Y: 26.7954
+    Z: 2.92593
+    DRIFT: 0
+- Name: Flag 326
+    X: -34.0888
+    Y: 26.852
+    Z: 2.91249
+    DRIFT: 0
+- Name: Flag 327
+    X: -34.1011
+    Y: 26.9088
+    Z: 2.895
+    DRIFT: 0
+- Name: Flag 328
+    X: -34.1144
+    Y: 26.966
+    Z: 2.87464
+    DRIFT: 0
+- Name: Flag 329
+    X: -34.1288
+    Y: 27.0235
+    Z: 2.85397
+    DRIFT: 0
+- Name: Flag 330
+    X: -34.1442
+    Y: 27.0805
+    Z: 2.83319
+    DRIFT: 0
+- Name: Flag 331
+    X: -34.1604
+    Y: 27.1365
+    Z: 2.81255
+    DRIFT: 0
+- Name: Flag 332
+    X: -34.1771
+    Y: 27.1908
+    Z: 2.79226
+    DRIFT: 0
+- Name: Flag 333
+    X: -34.1941
+    Y: 27.2431
+    Z: 2.77251
+    DRIFT: 0
+- Name: Flag 334
+    X: -34.2114
+    Y: 27.293
+    Z: 2.75338
+    DRIFT: 0
+- Name: Flag 335
+    X: -34.2287
+    Y: 27.3408
+    Z: 2.73487
+    DRIFT: 0
+- Name: Flag 336
+    X: -34.2464
+    Y: 27.3871
+    Z: 2.71669
+    DRIFT: 0
+- Name: Flag 337
+    X: -34.2652
+    Y: 27.4339
+    Z: 2.69804
+    DRIFT: 0
+- Name: Flag 338
+    X: -34.2855
+    Y: 27.4822
+    Z: 2.67857
+    DRIFT: 0
+- Name: Flag 339
+    X: -34.3075
+    Y: 27.5319
+    Z: 2.65819
+    DRIFT: 0
+- Name: Flag 340
+    X: -34.3312
+    Y: 27.5829
+    Z: 2.63695
+    DRIFT: 0
+- Name: Flag 341
+    X: -34.3565
+    Y: 27.6348
+    Z: 2.61497
+    DRIFT: 0
+- Name: Flag 342
+    X: -34.3833
+    Y: 27.6869
+    Z: 2.59245
+    DRIFT: 0
+- Name: Flag 343
+    X: -34.4114
+    Y: 27.7388
+    Z: 2.5696
+    DRIFT: 0
+- Name: Flag 344
+    X: -34.4405
+    Y: 27.7899
+    Z: 2.54661
+    DRIFT: 0
+- Name: Flag 345
+    X: -34.4703
+    Y: 27.8399
+    Z: 2.52366
+    DRIFT: 0
+- Name: Flag 346
+    X: -34.5009
+    Y: 27.8885
+    Z: 2.5008
+    DRIFT: 0
+- Name: Flag 347
+    X: -34.5322
+    Y: 27.936
+    Z: 2.47792
+    DRIFT: 0
+- Name: Flag 348
+    X: -34.5645
+    Y: 27.9828
+    Z: 2.45488
+    DRIFT: 0
+- Name: Flag 349
+    X: -34.598
+    Y: 28.0289
+    Z: 2.43158
+    DRIFT: 0
+- Name: Flag 350
+    X: -34.6325
+    Y: 28.0743
+    Z: 2.40799
+    DRIFT: 0
+- Name: Flag 351
+    X: -34.6683
+    Y: 28.119
+    Z: 2.38409
+    DRIFT: 0
+- Name: Flag 352
+    X: -34.7052
+    Y: 28.1629
+    Z: 2.3599
+    DRIFT: 0
+- Name: Flag 353
+    X: -34.7431
+    Y: 28.2059
+    Z: 2.33547
+    DRIFT: 0
+- Name: Flag 354
+    X: -34.7821
+    Y: 28.2479
+    Z: 2.31085
+    DRIFT: 0
+- Name: Flag 355
+    X: -34.8219
+    Y: 28.2886
+    Z: 2.28606
+    DRIFT: 0
+- Name: Flag 356
+    X: -34.8626
+    Y: 28.3281
+    Z: 2.26113
+    DRIFT: 0
+- Name: Flag 357
+    X: -34.9039
+    Y: 28.3661
+    Z: 2.23616
+    DRIFT: 0
+- Name: Flag 358
+    X: -34.9457
+    Y: 28.4026
+    Z: 2.21122
+    DRIFT: 0
+- Name: Flag 359
+    X: -34.9878
+    Y: 28.4373
+    Z: 2.18641
+    DRIFT: 0
+- Name: Flag 360
+    X: -35.0299
+    Y: 28.4702
+    Z: 2.16178
+    DRIFT: 0
+- Name: Flag 361
+    X: -35.0722
+    Y: 28.5014
+    Z: 2.13738
+    DRIFT: 0
+- Name: Flag 362
+    X: -35.1143
+    Y: 28.5308
+    Z: 2.1132
+    DRIFT: 0
+- Name: Flag 363
+    X: -35.1567
+    Y: 28.5586
+    Z: 2.08906
+    DRIFT: 0
+- Name: Flag 364
+    X: -35.2003
+    Y: 28.5855
+    Z: 2.06441
+    DRIFT: 0
+- Name: Flag 365
+    X: -35.2453
+    Y: 28.6116
+    Z: 2.03904
+    DRIFT: 0
+- Name: Flag 366
+    X: -35.2921
+    Y: 28.6367
+    Z: 2.01285
+    DRIFT: 0
+- Name: Flag 367
+    X: -35.3405
+    Y: 28.6609
+    Z: 1.98578
+    DRIFT: 0
+- Name: Flag 368
+    X: -35.3907
+    Y: 28.6838
+    Z: 1.9578
+    DRIFT: 0
+- Name: Flag 369
+    X: -35.4425
+    Y: 28.7053
+    Z: 1.92891
+    DRIFT: 0
+- Name: Flag 370
+    X: -35.496
+    Y: 28.7253
+    Z: 1.89906
+    DRIFT: 0
+- Name: Flag 371
+    X: -35.5501
+    Y: 28.7432
+    Z: 1.86882
+    DRIFT: 0
+- Name: Flag 372
+    X: -35.6038
+    Y: 28.7587
+    Z: 1.8387
+    DRIFT: 0
+- Name: Flag 373
+    X: -35.6566
+    Y: 28.7717
+    Z: 1.8089
+    DRIFT: 0
+- Name: Flag 374
+    X: -35.708
+    Y: 28.7822
+    Z: 1.77964
+    DRIFT: 0
+- Name: Flag 375
+    X: -35.7577
+    Y: 28.7904
+    Z: 1.75111
+    DRIFT: 0
+- Name: Flag 376
+    X: -35.8054
+    Y: 28.7964
+    Z: 1.72342
+    DRIFT: 0
+- Name: Flag 377
+    X: -35.8512
+    Y: 28.8004
+    Z: 1.69657
+    DRIFT: 0
+- Name: Flag 378
+    X: -35.896
+    Y: 28.8026
+    Z: 1.6926
+    DRIFT: 0
+- Name: Flag 379
+    X: -35.9416
+    Y: 28.8031
+    Z: 1.71495
+    DRIFT: 0
+- Name: Flag 380
+    X: -35.9884
+    Y: 28.8018
+    Z: 1.76431
+    DRIFT: 0
+- Name: Flag 381
+    X: -36.0364
+    Y: 28.7988
+    Z: 1.83514
+    DRIFT: 0
+- Name: Flag 382
+    X: -36.0857
+    Y: 28.7939
+    Z: 1.92085
+    DRIFT: 0
+- Name: Flag 383
+    X: -36.1361
+    Y: 28.7873
+    Z: 2.01524
+    DRIFT: 0
+- Name: Flag 384
+    X: -36.1876
+    Y: 28.7789
+    Z: 2.11315
+    DRIFT: 0
+- Name: Flag 385
+    X: -36.2401
+    Y: 28.7689
+    Z: 2.21066
+    DRIFT: 0
+- Name: Flag 386
+    X: -36.2933
+    Y: 28.7572
+    Z: 2.30487
+    DRIFT: 0
+- Name: Flag 387
+    X: -36.347
+    Y: 28.744
+    Z: 2.39371
+    DRIFT: 0
+- Name: Flag 388
+    X: -36.4011
+    Y: 28.7294
+    Z: 2.47573
+    DRIFT: 0
+- Name: Flag 389
+    X: -36.4554
+    Y: 28.7134
+    Z: 2.54993
+    DRIFT: 0
+- Name: Flag 390
+    X: -36.5097
+    Y: 28.6962
+    Z: 2.61592
+    DRIFT: 0
+- Name: Flag 391
+    X: -36.5642
+    Y: 28.6777
+    Z: 2.67378
+    DRIFT: 0
+- Name: Flag 392
+    X: -36.6189
+    Y: 28.6579
+    Z: 2.72327
+    DRIFT: 0
+- Name: Flag 393
+    X: -36.6736
+    Y: 28.637
+    Z: 2.76402
+    DRIFT: 0
+- Name: Flag 394
+    X: -36.7283
+    Y: 28.6149
+    Z: 2.7956
+    DRIFT: 0
+- Name: Flag 395
+    X: -36.7826
+    Y: 28.5918
+    Z: 2.81763
+    DRIFT: 0
+- Name: Flag 396
+    X: -36.8366
+    Y: 28.5677
+    Z: 2.82973
+    DRIFT: 0
+- Name: Flag 397
+    X: -36.8899
+    Y: 28.5428
+    Z: 2.83165
+    DRIFT: 0
+- Name: Flag 398
+    X: -36.9423
+    Y: 28.5171
+    Z: 2.82315
+    DRIFT: 0
+- Name: Flag 399
+    X: -36.9939
+    Y: 28.4907
+    Z: 2.80402
+    DRIFT: 0
+- Name: Flag 400
+    X: -37.0443
+    Y: 28.4638
+    Z: 2.78355
+    DRIFT: 0
+- Name: Flag 401
+    X: -37.0936
+    Y: 28.4363
+    Z: 2.7632
+    DRIFT: 0
+- Name: Flag 402
+    X: -37.143
+    Y: 28.4099
+    Z: 2.74285
+    DRIFT: 0
+- Name: Flag 403
+    X: -37.1924
+    Y: 28.3846
+    Z: 2.72253
+    DRIFT: 0
+- Name: Flag 404
+    X: -37.2418
+    Y: 28.3605
+    Z: 2.70228
+    DRIFT: 0
+- Name: Flag 405
+    X: -37.2908
+    Y: 28.3375
+    Z: 2.68217
+    DRIFT: 0
+- Name: Flag 406
+    X: -37.3394
+    Y: 28.3158
+    Z: 2.66225
+    DRIFT: 0
+- Name: Flag 407
+    X: -37.3875
+    Y: 28.2954
+    Z: 2.64257
+    DRIFT: 0
+- Name: Flag 408
+    X: -37.4349
+    Y: 28.2763
+    Z: 2.62316
+    DRIFT: 0
+- Name: Flag 409
+    X: -37.4816
+    Y: 28.2584
+    Z: 2.60401
+    DRIFT: 0
+- Name: Flag 410
+    X: -37.5277
+    Y: 28.2416
+    Z: 2.58509
+    DRIFT: 0
+- Name: Flag 411
+    X: -37.5737
+    Y: 28.2258
+    Z: 2.56624
+    DRIFT: 0
+- Name: Flag 412
+    X: -37.6207
+    Y: 28.2105
+    Z: 2.54687
+    DRIFT: 0
+- Name: Flag 413
+    X: -37.6693
+    Y: 28.1958
+    Z: 2.52685
+    DRIFT: 0
+- Name: Flag 414
+    X: -37.7195
+    Y: 28.1816
+    Z: 2.50614
+    DRIFT: 0
+- Name: Flag 415
+    X: -37.7711
+    Y: 28.1681
+    Z: 2.48475
+    DRIFT: 0
+- Name: Flag 416
+    X: -37.8241
+    Y: 28.1555
+    Z: 2.46273
+    DRIFT: 0
+- Name: Flag 417
+    X: -37.8783
+    Y: 28.1438
+    Z: 2.44014
+    DRIFT: 0
+- Name: Flag 418
+    X: -37.9332
+    Y: 28.1332
+    Z: 2.41708
+    DRIFT: 0
+- Name: Flag 419
+    X: -37.9886
+    Y: 28.1238
+    Z: 2.39374
+    DRIFT: 0
+- Name: Flag 420
+    X: -38.0443
+    Y: 28.1158
+    Z: 2.37014
+    DRIFT: 0
+- Name: Flag 421
+    X: -38.1002
+    Y: 28.1091
+    Z: 5
+    DRIFT: 1
+- Name: Flag 422
+    X: -38.1564
+    Y: 28.1037
+    Z: 5
+    DRIFT: 1
+- Name: Flag 423
+    X: -38.2129
+    Y: 28.0998
+    Z: 5
+    DRIFT: 1
+- Name: Flag 424
+    X: -38.2697
+    Y: 28.0973
+    Z: 5
+    DRIFT: 1
+- Name: Flag 425
+    X: -38.3268
+    Y: 28.0963
+    Z: 5
+    DRIFT: 1
+- Name: Flag 426
+    X: -38.3835
+    Y: 28.0968
+    Z: 5
+    DRIFT: 1
+- Name: Flag 427
+    X: -38.4397
+    Y: 28.0989
+    Z: 5
+    DRIFT: 1
+- Name: Flag 428
+    X: -38.495
+    Y: 28.1025
+    Z: 5
+    DRIFT: 1
+- Name: Flag 429
+    X: -38.5494
+    Y: 28.1075
+    Z: 5
+    DRIFT: 1
+- Name: Flag 430
+    X: -38.6027
+    Y: 28.114
+    Z: 5
+    DRIFT: 1
+- Name: Flag 431
+    X: -38.6548
+    Y: 28.1219
+    Z: 5
+    DRIFT: 1
+- Name: Flag 432
+    X: -38.7056
+    Y: 28.131
+    Z: 5
+    DRIFT: 1
+- Name: Flag 433
+    X: -38.7558
+    Y: 28.1415
+    Z: 5
+    DRIFT: 1
+- Name: Flag 434
+    X: -38.8054
+    Y: 28.1534
+    Z: 5
+    DRIFT: 1
+- Name: Flag 435
+    X: -38.8545
+    Y: 28.1668
+    Z: 5
+    DRIFT: 1
+- Name: Flag 436
+    X: -38.9029
+    Y: 28.1816
+    Z: 5
+    DRIFT: 1
+- Name: Flag 437
+    X: -38.9509
+    Y: 28.1979
+    Z: 5
+    DRIFT: 1
+- Name: Flag 438
+    X: -38.9982
+    Y: 28.2157
+    Z: 5
+    DRIFT: 1
+- Name: Flag 439
+    X: -39.045
+    Y: 28.2351
+    Z: 5
+    DRIFT: 1
+- Name: Flag 440
+    X: -39.0909
+    Y: 28.256
+    Z: 5
+    DRIFT: 1
+- Name: Flag 441
+    X: -39.1357
+    Y: 28.2783
+    Z: 5
+    DRIFT: 1
+- Name: Flag 442
+    X: -39.1794
+    Y: 28.302
+    Z: 5
+    DRIFT: 1
+- Name: Flag 443
+    X: -39.2218
+    Y: 28.3271
+    Z: 5
+    DRIFT: 1
+- Name: Flag 444
+    X: -39.263
+    Y: 28.3534
+    Z: 5
+    DRIFT: 1
+- Name: Flag 445
+    X: -39.3028
+    Y: 28.3812
+    Z: 5
+    DRIFT: 1
+- Name: Flag 446
+    X: -39.3415
+    Y: 28.4104
+    Z: 5
+    DRIFT: 1
+- Name: Flag 447
+    X: -39.3794
+    Y: 28.4416
+    Z: 5
+    DRIFT: 1
+- Name: Flag 448
+    X: -39.417
+    Y: 28.4753
+    Z: 5
+    DRIFT: 1
+- Name: Flag 449
+    X: -39.4541
+    Y: 28.5117
+    Z: 5
+    DRIFT: 1
+- Name: Flag 450
+    X: -39.4904
+    Y: 28.5511
+    Z: 5
+    DRIFT: 1
+- Name: Flag 451
+    X: -39.5255
+    Y: 28.5933
+    Z: 5
+    DRIFT: 1
+- Name: Flag 452
+    X: -39.5588
+    Y: 28.6384
+    Z: 5
+    DRIFT: 1
+- Name: Flag 453
+    X: -39.5898
+    Y: 28.6861
+    Z: 5
+    DRIFT: 1
+- Name: Flag 454
+    X: -39.618
+    Y: 28.7363
+    Z: 5
+    DRIFT: 1
+- Name: Flag 455
+    X: -39.6428
+    Y: 28.7885
+    Z: 5
+    DRIFT: 1
+- Name: Flag 456
+    X: -39.6638
+    Y: 28.8424
+    Z: 5
+    DRIFT: 1
+- Name: Flag 457
+    X: -39.6805
+    Y: 28.8975
+    Z: 5
+    DRIFT: 1
+- Name: Flag 458
+    X: -39.6925
+    Y: 28.9534
+    Z: 5
+    DRIFT: 1
+- Name: Flag 459
+    X: -39.6998
+    Y: 29.0099
+    Z: 5
+    DRIFT: 1
+- Name: Flag 460
+    X: -39.7026
+    Y: 29.0666
+    Z: 5
+    DRIFT: 1
+- Name: Flag 461
+    X: -39.7012
+    Y: 29.1234
+    Z: 5
+    DRIFT: 1
+- Name: Flag 462
+    X: -39.6961
+    Y: 29.1801
+    Z: 1.50499
+    DRIFT: 0
+- Name: Flag 463
+    X: -39.6875
+    Y: 29.2366
+    Z: 1
+    DRIFT: 0
+- Name: Flag 464
+    X: -39.6757
+    Y: 29.2928
+    Z: 1
+    DRIFT: 0
+- Name: Flag 465
+    X: -39.661
+    Y: 29.3483
+    Z: 1
+    DRIFT: 0
+- Name: Flag 466
+    X: -39.6437
+    Y: 29.4025
+    Z: 1
+    DRIFT: 0
+- Name: Flag 467
+    X: -39.6241
+    Y: 29.4551
+    Z: 1
+    DRIFT: 0
+- Name: Flag 468
+    X: -39.6027
+    Y: 29.5056
+    Z: 1
+    DRIFT: 0
+- Name: Flag 469
+    X: -39.5797
+    Y: 29.5538
+    Z: 1
+    DRIFT: 0
+- Name: Flag 470
+    X: -39.5554
+    Y: 29.5996
+    Z: 1
+    DRIFT: 0
+- Name: Flag 471
+    X: -39.5299
+    Y: 29.6435
+    Z: 1
+    DRIFT: 0
+- Name: Flag 472
+    X: -39.5027
+    Y: 29.6862
+    Z: 1
+    DRIFT: 0
+- Name: Flag 473
+    X: -39.4739
+    Y: 29.7277
+    Z: 1
+    DRIFT: 0
+- Name: Flag 474
+    X: -39.4433
+    Y: 29.7683
+    Z: 1.7557
+    DRIFT: 0
+- Name: Flag 475
+    X: -39.411
+    Y: 29.8078
+    Z: 1.7606
+    DRIFT: 0
+- Name: Flag 476
+    X: -39.3769
+    Y: 29.8462
+    Z: 1.76918
+    DRIFT: 0
+- Name: Flag 477
+    X: -39.3412
+    Y: 29.8834
+    Z: 1.7828
+    DRIFT: 0
+- Name: Flag 478
+    X: -39.3039
+    Y: 29.9193
+    Z: 1.80256
+    DRIFT: 0
+- Name: Flag 479
+    X: -39.2651
+    Y: 29.9539
+    Z: 1.82919
+    DRIFT: 0
+- Name: Flag 480
+    X: -39.2251
+    Y: 29.987
+    Z: 1.86289
+    DRIFT: 0
+- Name: Flag 481
+    X: -39.184
+    Y: 30.0186
+    Z: 1.90334
+    DRIFT: 0
+- Name: Flag 482
+    X: -39.1421
+    Y: 30.0486
+    Z: 1.9498
+    DRIFT: 0
+- Name: Flag 483
+    X: -39.0992
+    Y: 30.0772
+    Z: 2.00162
+    DRIFT: 0
+- Name: Flag 484
+    X: -39.0555
+    Y: 30.1045
+    Z: 2.0582
+    DRIFT: 0
+- Name: Flag 485
+    X: -39.0109
+    Y: 30.1305
+    Z: 2.11892
+    DRIFT: 0
+- Name: Flag 486
+    X: -38.9655
+    Y: 30.1554
+    Z: 2.18323
+    DRIFT: 0
+- Name: Flag 487
+    X: -38.9191
+    Y: 30.1792
+    Z: 2.24823
+    DRIFT: 0
+- Name: Flag 488
+    X: -38.8719
+    Y: 30.202
+    Z: 2.31175
+    DRIFT: 0
+- Name: Flag 489
+    X: -38.8238
+    Y: 30.2238
+    Z: 2.37223
+    DRIFT: 0
+- Name: Flag 490
+    X: -38.7749
+    Y: 30.2447
+    Z: 2.42847
+    DRIFT: 0
+- Name: Flag 491
+    X: -38.7252
+    Y: 30.2647
+    Z: 2.47953
+    DRIFT: 0
+- Name: Flag 492
+    X: -38.675
+    Y: 30.2836
+    Z: 2.52424
+    DRIFT: 0
+- Name: Flag 493
+    X: -38.6245
+    Y: 30.3015
+    Z: 2.56195
+    DRIFT: 0
+- Name: Flag 494
+    X: -38.5737
+    Y: 30.3184
+    Z: 2.59231
+    DRIFT: 0
+- Name: Flag 495
+    X: -38.5228
+    Y: 30.3343
+    Z: 2.61507
+    DRIFT: 0
+- Name: Flag 496
+    X: -38.4716
+    Y: 30.3492
+    Z: 2.62993
+    DRIFT: 0
+- Name: Flag 497
+    X: -38.4203
+    Y: 30.3631
+    Z: 2.63656
+    DRIFT: 0
+- Name: Flag 498
+    X: -38.3688
+    Y: 30.3761
+    Z: 2.63449
+    DRIFT: 0
+- Name: Flag 499
+    X: -38.3171
+    Y: 30.3881
+    Z: 2.62309
+    DRIFT: 0
+- Name: Flag 500
+    X: -38.2647
+    Y: 30.3992
+    Z: 2.60261
+    DRIFT: 0
+- Name: Flag 501
+    X: -38.2114
+    Y: 30.4095
+    Z: 2.58165
+    DRIFT: 0
+- Name: Flag 502
+    X: -38.157
+    Y: 30.4189
+    Z: 2.56018
+    DRIFT: 0
+- Name: Flag 503
+    X: -38.1016
+    Y: 30.4273
+    Z: 2.53821
+    DRIFT: 0
+- Name: Flag 504
+    X: -38.0453
+    Y: 30.4366
+    Z: 2.51563
+    DRIFT: 0
+- Name: Flag 505
+    X: -37.9881
+    Y: 30.4473
+    Z: 2.4924
+    DRIFT: 0
+- Name: Flag 506
+    X: -37.9302
+    Y: 30.4595
+    Z: 2.46852
+    DRIFT: 0
+- Name: Flag 507
+    X: -37.8716
+    Y: 30.4733
+    Z: 2.44402
+    DRIFT: 0
+- Name: Flag 508
+    X: -37.8128
+    Y: 30.4886
+    Z: 5
+    DRIFT: 1
+- Name: Flag 509
+    X: -37.7543
+    Y: 30.5055
+    Z: 5
+    DRIFT: 1
+- Name: Flag 510
+    X: -37.6965
+    Y: 30.5237
+    Z: 5
+    DRIFT: 1
+- Name: Flag 511
+    X: -37.64
+    Y: 30.5432
+    Z: 5
+    DRIFT: 1
+- Name: Flag 512
+    X: -37.5853
+    Y: 30.5636
+    Z: 5
+    DRIFT: 1
+- Name: Flag 513
+    X: -37.5328
+    Y: 30.5847
+    Z: 5
+    DRIFT: 1
+- Name: Flag 514
+    X: -37.4828
+    Y: 30.6064
+    Z: 5
+    DRIFT: 1
+- Name: Flag 515
+    X: -37.4355
+    Y: 30.6283
+    Z: 5
+    DRIFT: 1
+- Name: Flag 516
+    X: -37.3908
+    Y: 30.6503
+    Z: 5
+    DRIFT: 1
+- Name: Flag 517
+    X: -37.3485
+    Y: 30.6724
+    Z: 5
+    DRIFT: 1
+- Name: Flag 518
+    X: -37.3071
+    Y: 30.6952
+    Z: 5
+    DRIFT: 1
+- Name: Flag 519
+    X: -37.2661
+    Y: 30.7192
+    Z: 5
+    DRIFT: 1
+- Name: Flag 520
+    X: -37.225
+    Y: 30.7445
+    Z: 5
+    DRIFT: 1
+- Name: Flag 521
+    X: -37.1838
+    Y: 30.7715
+    Z: 5
+    DRIFT: 1
+- Name: Flag 522
+    X: -37.1423
+    Y: 30.8002
+    Z: 5
+    DRIFT: 1
+- Name: Flag 523
+    X: -37.1008
+    Y: 30.8307
+    Z: 5
+    DRIFT: 1
+- Name: Flag 524
+    X: -37.0592
+    Y: 30.8632
+    Z: 5
+    DRIFT: 1
+- Name: Flag 525
+    X: -37.0177
+    Y: 30.8977
+    Z: 5
+    DRIFT: 1
+- Name: Flag 526
+    X: -36.9767
+    Y: 30.9341
+    Z: 5
+    DRIFT: 1
+- Name: Flag 527
+    X: -36.9363
+    Y: 30.9726
+    Z: 5
+    DRIFT: 1
+- Name: Flag 528
+    X: -36.8971
+    Y: 31.0124
+    Z: 5
+    DRIFT: 1
+- Name: Flag 529
+    X: -36.8612
+    Y: 31.0518
+    Z: 5
+    DRIFT: 1
+- Name: Flag 530
+    X: -36.8289
+    Y: 31.0895
+    Z: 5
+    DRIFT: 1
+- Name: Flag 531
+    X: -36.8006
+    Y: 31.125
+    Z: 5
+    DRIFT: 1
+- Name: Flag 532
+    X: -36.776
+    Y: 31.1578
+    Z: 5
+    DRIFT: 1
+- Name: Flag 533
+    X: -36.7544
+    Y: 31.1883
+    Z: 5
+    DRIFT: 1
+- Name: Flag 534
+    X: -36.7332
+    Y: 31.2201
+    Z: 5
+    DRIFT: 1
+- Name: Flag 535
+    X: -36.7096
+    Y: 31.2581
+    Z: 5
+    DRIFT: 1
+- Name: Flag 536
+    X: -36.6837
+    Y: 31.3034
+    Z: 5
+    DRIFT: 1
+- Name: Flag 537
+    X: -36.6569
+    Y: 31.3556
+    Z: 5
+    DRIFT: 1
+- Name: Flag 538
+    X: -36.6309
+    Y: 31.4133
+    Z: 5
+    DRIFT: 1
+- Name: Flag 539
+    X: -36.6074
+    Y: 31.4743
+    Z: 5
+    DRIFT: 1
+- Name: Flag 540
+    X: -36.5877
+    Y: 31.5365
+    Z: 5
+    DRIFT: 1
+- Name: Flag 541
+    X: -36.5723
+    Y: 31.5978
+    Z: 5
+    DRIFT: 1
+- Name: Flag 542
+    X: -36.5614
+    Y: 31.6569
+    Z: 5
+    DRIFT: 1
+- Name: Flag 543
+    X: -36.5545
+    Y: 31.7148
+    Z: 5
+    DRIFT: 1
+- Name: Flag 544
+    X: -36.5514
+    Y: 31.7727
+    Z: 5
+    DRIFT: 1
+- Name: Flag 545
+    X: -36.5523
+    Y: 31.8312
+    Z: 5
+    DRIFT: 1
+- Name: Flag 546
+    X: -36.5577
+    Y: 31.8901
+    Z: 5
+    DRIFT: 1
+- Name: Flag 547
+    X: -36.5679
+    Y: 31.9493
+    Z: 5
+    DRIFT: 1
+- Name: Flag 548
+    X: -36.5835
+    Y: 32.0081
+    Z: 5
+    DRIFT: 1
+- Name: Flag 549
+    X: -36.605
+    Y: 32.0659
+    Z: 1.18634
+    DRIFT: 0
+- Name: Flag 550
+    X: -36.6327
+    Y: 32.1218
+    Z: 1
+    DRIFT: 0
+- Name: Flag 551
+    X: -36.6669
+    Y: 32.1741
+    Z: 1
+    DRIFT: 0
+- Name: Flag 552
+    X: -36.7074
+    Y: 32.2218
+    Z: 1
+    DRIFT: 0
+- Name: Flag 553
+    X: -36.7537
+    Y: 32.2643
+    Z: 1
+    DRIFT: 0
+- Name: Flag 554
+    X: -36.8052
+    Y: 32.3008
+    Z: 1
+    DRIFT: 0
+- Name: Flag 555
+    X: -36.8601
+    Y: 32.3318
+    Z: 1
+    DRIFT: 0
+- Name: Flag 556
+    X: -36.9166
+    Y: 32.3582
+    Z: 1
+    DRIFT: 0
+- Name: Flag 557
+    X: -36.9735
+    Y: 32.3809
+    Z: 1
+    DRIFT: 0
+- Name: Flag 558
+    X: -37.03
+    Y: 32.4005
+    Z: 1
+    DRIFT: 0
+- Name: Flag 559
+    X: -37.0855
+    Y: 32.4172
+    Z: 1
+    DRIFT: 0
+- Name: Flag 560
+    X: -37.1397
+    Y: 32.4317
+    Z: 1
+    DRIFT: 0
+- Name: Flag 561
+    X: -37.1923
+    Y: 32.444
+    Z: 2.20765
+    DRIFT: 0
+- Name: Flag 562
+    X: -37.2431
+    Y: 32.4545
+    Z: 2.28441
+    DRIFT: 0
+- Name: Flag 563
+    X: -37.2919
+    Y: 32.4635
+    Z: 2.35126
+    DRIFT: 0
+- Name: Flag 564
+    X: -37.3388
+    Y: 32.471
+    Z: 2.40989
+    DRIFT: 0
+- Name: Flag 565
+    X: -37.3839
+    Y: 32.4774
+    Z: 2.46188
+    DRIFT: 0
+- Name: Flag 566
+    X: -37.4277
+    Y: 32.4828
+    Z: 2.50923
+    DRIFT: 0
+- Name: Flag 567
+    X: -37.4732
+    Y: 32.4877
+    Z: 2.55763
+    DRIFT: 0
+- Name: Flag 568
+    X: -37.5217
+    Y: 32.492
+    Z: 2.60935
+    DRIFT: 0
+- Name: Flag 569
+    X: -37.5735
+    Y: 32.4956
+    Z: 2.66393
+    DRIFT: 0
+- Name: Flag 570
+    X: -37.6283
+    Y: 32.4985
+    Z: 2.71971
+    DRIFT: 0
+- Name: Flag 571
+    X: -37.6854
+    Y: 32.5005
+    Z: 2.77434
+    DRIFT: 0
+- Name: Flag 572
+    X: -37.7437
+    Y: 32.5015
+    Z: 2.82472
+    DRIFT: 0
+- Name: Flag 573
+    X: -37.8019
+    Y: 32.5014
+    Z: 2.8687
+    DRIFT: 0
+- Name: Flag 574
+    X: -37.86
+    Y: 32.5004
+    Z: 2.90642
+    DRIFT: 0
+- Name: Flag 575
+    X: -37.9182
+    Y: 32.4984
+    Z: 2.93795
+    DRIFT: 0
+- Name: Flag 576
+    X: -37.9765
+    Y: 32.4954
+    Z: 2.96328
+    DRIFT: 0
+- Name: Flag 577
+    X: -38.0351
+    Y: 32.4915
+    Z: 2.98228
+    DRIFT: 0
+- Name: Flag 578
+    X: -38.094
+    Y: 32.4866
+    Z: 2.99468
+    DRIFT: 0
+- Name: Flag 579
+    X: -38.1535
+    Y: 32.4807
+    Z: 3
+    DRIFT: 0
+- Name: Flag 580
+    X: -38.2136
+    Y: 32.4738
+    Z: 3
+    DRIFT: 0
+- Name: Flag 581
+    X: -38.2742
+    Y: 32.4658
+    Z: 3
+    DRIFT: 0
+- Name: Flag 582
+    X: -38.3343
+    Y: 32.4569
+    Z: 3
+    DRIFT: 0
+- Name: Flag 583
+    X: -38.3932
+    Y: 32.4473
+    Z: 3
+    DRIFT: 0
+- Name: Flag 584
+    X: -38.4502
+    Y: 32.437
+    Z: 3
+    DRIFT: 0
+- Name: Flag 585
+    X: -38.5047
+    Y: 32.4263
+    Z: 3
+    DRIFT: 0
+- Name: Flag 586
+    X: -38.5563
+    Y: 32.4153
+    Z: 3
+    DRIFT: 0
+- Name: Flag 587
+    X: -38.6053
+    Y: 32.4043
+    Z: 3
+    DRIFT: 0
+- Name: Flag 588
+    X: -38.6535
+    Y: 32.3927
+    Z: 3
+    DRIFT: 0
+- Name: Flag 589
+    X: -38.7021
+    Y: 32.381
+    Z: 3
+    DRIFT: 0
+- Name: Flag 590
+    X: -38.7515
+    Y: 32.3698
+    Z: 3
+    DRIFT: 0
+- Name: Flag 591
+    X: -38.8018
+    Y: 32.359
+    Z: 3
+    DRIFT: 0
+- Name: Flag 592
+    X: -38.8533
+    Y: 32.3488
+    Z: 3
+    DRIFT: 0
+- Name: Flag 593
+    X: -38.9058
+    Y: 32.3392
+    Z: 3
+    DRIFT: 0
+- Name: Flag 594
+    X: -38.9595
+    Y: 32.3301
+    Z: 3
+    DRIFT: 0
+- Name: Flag 595
+    X: -39.0141
+    Y: 32.3217
+    Z: 3
+    DRIFT: 0
+- Name: Flag 596
+    X: -39.0696
+    Y: 32.314
+    Z: 3
+    DRIFT: 0
+- Name: Flag 597
+    X: -39.126
+    Y: 32.307
+    Z: 3
+    DRIFT: 0
+- Name: Flag 598
+    X: -39.183
+    Y: 32.3008
+    Z: 3
+    DRIFT: 0
+- Name: Flag 599
+    X: -39.2407
+    Y: 32.2946
+    Z: 3
+    DRIFT: 0

@@ -1,0 +1,11 @@
+<launch>
+
+<!-- load rrt params -->
+    <rosparam command="load" file="$(find rrt)/config/config.yaml" />
+
+<!-- Launch rrt -->
+    <node pkg="rrt" type="rrt_node" name="rrt_node" respawn="true" output="screen" >
+        <param name="global_trajectory" value="$(find rrt)/trajectories/cleaned_opt.txt" />
+    </node>
+
+</launch>
